@@ -256,7 +256,7 @@ main {
 
   .name-and-avatar {
     display: inline-block;
-    height: $avatar-height;
+    height: 100%;
 
     .avatar {
       max-height: $avatar-height;
